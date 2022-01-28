@@ -1,2 +1,2 @@
 # beecrowd
-##Solves in Google Colab
+Solutions in Google Colab <br>
