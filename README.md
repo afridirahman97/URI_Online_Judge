@@ -1,1 +1,2 @@
-# URI_Online_Judge
+# beecrowd
+##Solves in Google Colab
